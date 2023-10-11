@@ -1,7 +1,7 @@
 const int greenLEDPin = 9;
 const int redLEDPin = 11;
 const int blueLEDPin = 10;
-
+/*add a line here*/
 const int redSensorPin = A0;
 const int greenSensorPin = A1;
 const int blueSensorPin = A2;
